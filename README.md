@@ -5,8 +5,16 @@ A custom heart-shaped LED chaser PCB designed using a 555 timer and 4017 decade 
 
 I loved The idea of making my own bag charm and started working on this project which totally went super great.
 ## Schematics
-
+![Schematic](Photos/Schematics.png)
 ## PCB
 ### Front 
-
+![Front](Photos/Front.png)
 ### Back
+![Back](Photos/Back.png)
+
+
+
+
+
+
+
